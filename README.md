@@ -47,6 +47,6 @@ http://localhost:3000/
 Login:
 ```bash
 User: admin
-Senha: 123
+password: 123
 ```
 
