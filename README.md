@@ -1,4 +1,4 @@
-# CRUD nodeJS
+# CRUD NodeJS
 
 A simple sample [nodeJS](https://nodejs.org/en/) application, using as [Express](http://expressjs.com), [Passport](http://www.passportjs.org) and [MariaDB](https://mariadb.org/).
 
