@@ -1,0 +1,15 @@
+{
+    "development": {
+        "username": "root",
+        "password": "admin",
+        "database": "crud-node",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "homolog": {
+     
+    },
+    "production": {
+
+    }
+}
