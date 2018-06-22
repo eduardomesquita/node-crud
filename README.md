@@ -28,7 +28,7 @@ Create database crud-node in mariadb and run:
 ```bash
 sequelize  db:migrate --migrations-path db/migrations/ --config config/database.json 
 ```
-Create admin user to access with passport
+Create admin user to access with passport:
 ```bash
 sequelize  db:seed:all --seeders-path  db/seeders --config config/database.json 
 ```
